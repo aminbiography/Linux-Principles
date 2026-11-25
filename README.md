@@ -2,9 +2,9 @@ Live URL:  https://aminbiography.github.io/Linux-Principles/
  
 ---                  
                           
-# Linux for CTI                  
+# Linux Principles               
 
-This repository documents **essential Linux knowledge** required for **Cyber Threat Intelligence (CTI)**, SOC operations, threat hunting, and security automation.
+This repository documents **essential Linux knowledge** required for **Cyber Threat**, SOC operations, threat hunting, and security automation.
 Each section includes **commands, explanations, and expected outputs**.
  
 ---   
