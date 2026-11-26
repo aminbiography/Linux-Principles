@@ -1,6 +1,6 @@
 **Live URL:**  https://aminbiography.github.io/Linux-Principles/ 
  
----                  
+---                    
                           
 # Linux Principles               
 
